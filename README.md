@@ -12,3 +12,8 @@ You must dispatch the packages in the following stacks:
 - **STANDARD**: standard packages (those that are not bulky or heavy) can be handled normally.
 - **SPECIAL**: packages that are either heavy or bulky can't be handled automatically.
 - **REJECTED**: packages that are **both** heavy and bulky are rejected.
+
+
+The files:
+- sorting_package.py : have the function sort to implement the logic
+- test_sorting_package.py : have the test for the function
